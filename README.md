@@ -108,7 +108,7 @@ Edit
 
 ## Deployment
 
-This project can be easily deployed to [Vercel](https://vercel.com):
+This project can be easily deployed to [Vercel](https://todo-app-jryg.vercel.app/):
 
 - Import your GitHub repo
 - Set build command: `npm run build`
