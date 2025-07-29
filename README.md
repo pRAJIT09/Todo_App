@@ -13,7 +13,7 @@ markdown
 Copy
 Edit
 ## 🚀 Live Demo
-🔗 [Click here to try it]((https://todo-app-jryg.vercel.app/)
+🔗 [Click here to try it](https://todo-app-jryg.vercel.app/)
 3. Screenshots / Preview
 A visual look at your project. Add one or more screenshots (inside a public/ or assets/ folder):
 
