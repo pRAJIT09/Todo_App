@@ -13,7 +13,7 @@ markdown
 Copy
 Edit
 ## 🚀 Live Demo
-🔗 [Click here to try it](https://yourproject.vercel.app)
+🔗 [Click here to try it](http://localhost:5173/)
 3. Screenshots / Preview
 A visual look at your project. Add one or more screenshots (inside a public/ or assets/ folder):
 
